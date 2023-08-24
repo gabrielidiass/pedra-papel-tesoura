@@ -1,0 +1,40 @@
+* {
+    background:#EDFFAD ;
+    font-size: 115%;
+    font-family: 'Akshar', sans-serif;
+}
+
+button {
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    background:#FFF5E0;
+    box-shadow: rgba(0, 0, 0, 0.253) 5px 5px 15px 5px;
+    display: inline-block;
+}
+
+button:hover {
+    background: #BAD7FF;
+}
+
+button:active {
+    background: #ED95AF;
+
+}
+
+img {
+    height: 4cm;
+
+}
+h1{
+    font-family: 'Amatic SC', cursive;
+text-shadow: 2px 3px 0px #535353ad;
+color: #FFFFFF;
+font-size: 600%;
+
+}
+h2{
+    font-family: 'Amatic SC', cursive;
+    font-size: 200%;}
